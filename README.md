@@ -10,8 +10,7 @@ Developers:
 =
 <ul>
 <li><strong>Saeyer</strong><br/>
-<li><strong>knagieknagger</strong><br/> 
-<li> <strong>jaspy2000</strong> <br/>
+<li><strong>knagieknagger</strong><br/>
 <li> <strong>Regions</strong> (JeroenPlays_MC)
 </ul>
 Links
